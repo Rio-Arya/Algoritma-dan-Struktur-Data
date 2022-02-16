@@ -1,5 +1,5 @@
 # SEARCHING(Sequential Searching & Binary Searching)
-[TUGAS SEARCHING](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data)
+TUGAS [SEARCHING](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data)
 - Searching adalah pencarian data dengan cara menelusuri data-data tersebut. Tempat pencarian data dapat berupa array dalam memori maupun pada file external
 - Ada dua macam teknik searching yaitu :
  1. [Sequential Searching](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data/tree/main/SEARCHING/Sequential%20Searching)\
