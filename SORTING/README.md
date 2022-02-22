@@ -20,5 +20,5 @@ Ascending adalah urutan data dari yang terkecil ke besar, sedangkan descending a
       <img width="271" alt="image" src="https://user-images.githubusercontent.com/99226773/155155912-6bb817cd-582b-4139-b30d-59b2a0f2625d.png">
       
 # CHALLENGE
-  -[Challenge Selection Sort](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data/blob/main/SORTING/Challenge_SelectionSort.c)
+  -[Challenge Selection Sort](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data/blob/main/SORTING/Challenge_SelectionSort.c)</br>
   -[Challenge Insertion Sort](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data/blob/main/SORTING/Challenge_InsertionSort.c)
