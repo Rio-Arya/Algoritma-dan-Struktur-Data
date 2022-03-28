@@ -6,3 +6,4 @@
     - [Bubble Sorting](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data/blob/main/SORTING/Bubble_Sorting.c)<br />
     - [Selection Sorting](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data/blob/main/SORTING/Selection_Sorting.c)<br />
     - [Insertion Sorting](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data/blob/main/SORTING/Insertion_Sorting.c)<br />
+2. [Linked List](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data/tree/main/LINKED%20LIST)<br />
