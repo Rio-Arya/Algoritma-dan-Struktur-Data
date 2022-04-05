@@ -8,3 +8,4 @@
     - [Insertion Sorting](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data/blob/main/SORTING/Insertion_Sorting.c)<br />
 3. [Linked List](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data/tree/main/LINKED%20LIST)<br />
 4. [Stack](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data/blob/main/STACK/STACK.c)<br />
+5. [Queue](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data/blob/main/QUEUE/QUEUE.c)<br />
