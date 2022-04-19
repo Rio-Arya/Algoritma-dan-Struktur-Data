@@ -11,3 +11,4 @@
     - [Challenge](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data/blob/main/LINKED%20LIST/Challenge%20Linked%20List.c)<br />
 4. [Stack](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data/blob/main/STACK/STACK.c)<br />
 5. [Queue](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data/blob/main/QUEUE/QUEUE.c)<br />
+6. [Tree](https://github.com/Rio-Arya/Algoritma-dan-Struktur-Data/blob/main/TREE/tree.c)<br />
